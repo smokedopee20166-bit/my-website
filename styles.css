@@ -16,7 +16,7 @@
         -2px 0 #00fff7,
         0 2px #fff;
     animation: glitch 1.5s infinite linear alternate-reverse;
-}
+}git status
 @keyframes glitch {
     0% { text-shadow: 2px 0 #ff0000, -2px 0 #00fff7, 0 2px #fff; }
     20% { text-shadow: -2px 0 #ff0000, 2px 0 #00fff7, 0 -2px #fff; }
